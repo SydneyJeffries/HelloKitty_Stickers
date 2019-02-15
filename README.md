@@ -13,7 +13,7 @@ leans favor toward when evaluating copywrite law infringement.
 <p>
 
 The Elements: <br>
-non-profit V. commercial <br>
+non-profit v. commercial <br>
 factual v. fictional <br>
 smaller bits of the whole product v. the entire work. 
 
