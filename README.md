@@ -11,8 +11,8 @@ that's evaluated when judging the applicability of law.
 I'll list the elemental words used in the court’s decision making and pair them with their extremes and explain which of the elements that the court usually 
 leans favor toward when evaluating copywrite law infringement. 
 
-The Elements:
-non-profit V. commercial 
+The Elements:<p>
+non-profit V. commercial <p>
 factual v. fictional
 smaller bits of the whole product v. the entire work. 
 
