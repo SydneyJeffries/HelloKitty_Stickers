@@ -30,7 +30,7 @@ Hello kitty is a fictional character so it has stronger copy write protections, 
 the court will look at all the elements and weigh the total outcome when determining who wins in a copywrite case. It's also notable that certain elements carry more weight then others.  
 
 smaller bits of the whole product v. the entire work. <br>
-So, have you ever heard that you can use any song you'd like in your product if it's under a certain amount of time? Yeah, that's true. 
+So, have you ever heard that you can use any song you'd like in your product if it's under a certain amount of time? Yeah, this is the part of the law that determined that free-bee. 
 Just don't use the whole song. 
 
 If youre apart of an establishment that has enough assets to loose, and you need help determining more about fair use exceptions of copywrited material, then definitely contact an attorney.  As a trained paralegal I legally can't give advice nor did I give you enough comprehensive information to determine your situation. These are "guidelines".
