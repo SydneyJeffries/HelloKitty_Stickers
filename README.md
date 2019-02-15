@@ -13,10 +13,10 @@ leans favor toward when evaluating copywrite law infringement.
 
 The Elements:<p>
 non-profit V. commercial <p>
-factual v. fictional
+factual v. fictional <p>
 smaller bits of the whole product v. the entire work. 
 
-non-profit v. Commercial 
+non-profit v. Commercial <br>
 when considering if a person has "fair use" over copywrited content the courts lean in favor of the person using the copywrited material if it’s of non-profit. So if you’re using copywrited material for pure pleasure and you’re not making money with it, the law is on your side and the law allows you to enjoy that copywrited content as much as you’d like.  
 
 copywrited material is meant to protect the owner of the copywrite from loosing their ability to make profit from their product. So, as long as my 
