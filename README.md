@@ -21,7 +21,7 @@ smaller bits of the whole product v. the entire work.
 
 non-profit v. Commercial <br>
 when considering if a person has "fair use" over copywrited content the courts lean in favor of the person using the copywrited material if it’s of non-profit. So if you’re using copywrited material for pure pleasure and you’re not making money with it, the law is on your side and the law allows you to enjoy that copywrited content as much as you’d like. copywrited material is intended to protect the owner of the copywrite from loosing their ability to make profit from their product. So, as long as my Hello Kitty is not preventing Sanrio (the copywrite owner) from making profits, this is in my favor. I could even argue that I'm promoting her, thus increasing sales 
-of Saniro products. But there are cases where the product could be argued as defamed thus possibly de-valuing the product, such as in Parody songs. The court has traditionally waved in favor of parody music! So wither or not you make money as a result of using the copywrited product is not going to directly determine whether you violated 
+of Saniro products. But there are cases where the product could be argued as defamed thus possibly de-valuing the product, such as in Parody songs. (The court has traditionally waved in favor of parody music!) So wither or not you make money as a result of using the copywrited product is not going to directly determine whether you violated 
 copywrite law.  
 
 factual v. fictional<br>
