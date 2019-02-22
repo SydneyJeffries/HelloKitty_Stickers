@@ -1,7 +1,7 @@
  
 <h1> Hello Kitty Stickers </h1>
 
-https://codepen.io/sydney-jeffries/pen/GzgPvg
+See it in action at my code pen! https://codepen.io/sydney-jeffries/pen/GzgPvg
 
 <h2> Lanscape version: </h2>
 <a href="http://tinypic.com?ref=117v53d" target="_blank"><img src="http://i63.tinypic.com/117v53d.jpg" border="0" alt="lasncape view of my project"></a>
