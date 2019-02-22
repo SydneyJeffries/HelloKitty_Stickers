@@ -1,6 +1,8 @@
  
 <h1> Hello Kitty Stickers </h1>
 
+
+
 This is a small project that gave me joy creating. I had two goals with this project other then polishing my own skills. 
 The main goal was to create interactive art, and the secondary goal was to make it responsive for landscape on a mobile devise. 
 Before I started using Hello Kitty in my project I stretched my paralegal abilities and analyzed my legal rights of using her in my pleasure project. You can follow along with the rest of this read me if you're interested in my legal deduction of using copyrighted content, otherwise there is nothing left for you here. <p>
@@ -13,7 +15,7 @@ leans favor toward when evaluating copywrite law infringement.
 
 <h4>The Elements: <br> </h4>
 Non-profit v. commercial <br>
-Factual v. fictional <br>
+Factual v. Fictional <br>
 Smaller bits of the whole product v. the entire work. 
 
 <p>
@@ -33,4 +35,8 @@ So, have you ever heard that you can use any song you'd like in your product if 
 Just don't use the whole song. 
 
 If you’re apart of an establishment that has enough assets to loose, and you need help determining more about fair use exceptions of copyrighted material, then definitely contact an attorney.  As a trained paralegal I legally can't give advice nor did I give you enough comprehensive information to determine your situation. These are "guidelines".
+
+<img src="http://i67.tinypic.com/23mmoef.jpg" border="0" alt="Design from XD"></a>
+
+
 
