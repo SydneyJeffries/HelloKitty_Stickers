@@ -13,7 +13,7 @@ This is a small project that gave me joy creating. I had two goals with this pro
 The main goal was to create interactive art, and the secondary goal was to make it responsive for landscape on a mobile devise. 
 Before I started using Hello Kitty in my project I stretched my paralegal abilities and analyzed my legal rights of using her in my pleasure project. You can follow along with the rest of this read me if you're interested in my legal deduction of using copyrighted content, otherwise there is nothing left for you here. <p>
 
-<h4> my deduction on the use of Copy-Righted Material </h4>
+<h3> My deduction on the use of Copy-Righted Material </h3>
 For those of you who are not aware, copywrite material when used in certain use cases is considered "fair use". fair use is measured 
 by 4 different elements. "elements" is a loose legal term used in the legal world that describes a phrase or concept 
 that's evaluated when judging the applicability of law. 
