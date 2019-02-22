@@ -1,11 +1,13 @@
  
 <h1> Hello Kitty Stickers </h1>
 
+https://codepen.io/sydney-jeffries/pen/GzgPvg
+
 <h2> Lanscape version: </h2>
 <a href="http://tinypic.com?ref=117v53d" target="_blank"><img src="http://i63.tinypic.com/117v53d.jpg" border="0" alt="lasncape view of my project"></a>
 
 <p align="center">
-<h2> Portrit version: </h2>
+<h2> Portrit version (with selections made): </h2>
 
 <img src="http://i66.tinypic.com/10oirmq.png" border="0" alt="protrit view of my project" ></a>
  </p>
