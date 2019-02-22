@@ -4,10 +4,11 @@
 <h2> Lanscape version: </h2>
 <a href="http://tinypic.com?ref=117v53d" target="_blank"><img src="http://i63.tinypic.com/117v53d.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
+<p align="center">
 <h2> Portrit version: </h2>
 
-<a href="http://tinypic.com?ref=10oirmq" target="_blank"><img src="http://i66.tinypic.com/10oirmq.png" border="0" alt="Image and video hosting by TinyPic align="center"></a>
-
+<a href="http://tinypic.com?ref=10oirmq" target="_blank"><img src="http://i66.tinypic.com/10oirmq.png" border="0" alt="Image and video hosting by TinyPic ></a>
+ </p>
 
 This is a small project that gave me joy creating. I had two goals with this project other then polishing my own skills. 
 The main goal was to create interactive art, and the secondary goal was to make it responsive for landscape on a mobile devise. 
