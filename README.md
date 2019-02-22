@@ -6,7 +6,7 @@
 
 <h2> Portrit version: </h2>
 
-<a href="http://tinypic.com?ref=10oirmq" target="_blank"><img src="http://i66.tinypic.com/10oirmq.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://tinypic.com?ref=10oirmq" target="_blank"><img src="http://i66.tinypic.com/10oirmq.png" border="0" alt="Image and video hosting by TinyPic align="center"></a>
 
 
 This is a small project that gave me joy creating. I had two goals with this project other then polishing my own skills. 
