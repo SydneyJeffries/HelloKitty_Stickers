@@ -1,7 +1,13 @@
  
 <h1> Hello Kitty Stickers </h1>
 
+<h2> Lanscape </h2>
 <a href="http://tinypic.com?ref=117v53d" target="_blank"><img src="http://i63.tinypic.com/117v53d.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<h2> portrit </h2>
+
+<a href="http://tinypic.com?ref=etehhx" target="_blank"><img src="http://i67.tinypic.com/etehhx.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
 
 This is a small project that gave me joy creating. I had two goals with this project other then polishing my own skills. 
 The main goal was to create interactive art, and the secondary goal was to make it responsive for landscape on a mobile devise. 
