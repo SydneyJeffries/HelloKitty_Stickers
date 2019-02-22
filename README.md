@@ -24,7 +24,7 @@ of Saniro products. But there are cases where the product could be argued as def
 copywrite law.  
 
 <h4>Factual v. Fictional<br> </h4>
-In general, factual content such as law books, research, or anything that is a product of teaching the masses has looser copywrite protections.
+In general, factual content such as law books, research, or anything that is a product of teaching the masses has looser copywrighted protections.
 Hello kitty is a fictional character so it has stronger copy write protections, but this element is only one of 3 that is considered when weighing the protection of the copywrite. 
 the court will look at all the elements and weigh the total outcome when determining who wins in a copywrite case. It's also notable that certain elements carry more weight then others.  
 
