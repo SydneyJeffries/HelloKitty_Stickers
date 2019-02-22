@@ -46,4 +46,4 @@ If you’re apart of an establishment that has enough assets to loose, and you n
 <img src="http://i67.tinypic.com/23mmoef.jpg" border="0" alt="Design from XD"></a>
 
 
-<a href="http://tinypic.com?ref=etehhx" target="_blank"><img src="http://i67.tinypic.com/etehhx.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
