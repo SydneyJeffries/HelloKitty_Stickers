@@ -1,7 +1,7 @@
  
 <h1> Hello Kitty Stickers </h1>
 
-
+<a href="http://tinypic.com?ref=117v53d" target="_blank"><img src="http://i63.tinypic.com/117v53d.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 This is a small project that gave me joy creating. I had two goals with this project other then polishing my own skills. 
 The main goal was to create interactive art, and the secondary goal was to make it responsive for landscape on a mobile devise. 
@@ -36,7 +36,8 @@ Just don't use the whole song.
 
 If you’re apart of an establishment that has enough assets to loose, and you need help determining more about fair use exceptions of copyrighted material, then definitely contact an attorney.  As a trained paralegal I legally can't give advice nor did I give you enough comprehensive information to determine your situation. These are "guidelines".
 
+
 <img src="http://i67.tinypic.com/23mmoef.jpg" border="0" alt="Design from XD"></a>
 
 
-
+<a href="http://tinypic.com?ref=etehhx" target="_blank"><img src="http://i67.tinypic.com/etehhx.png" border="0" alt="Image and video hosting by TinyPic"></a>
