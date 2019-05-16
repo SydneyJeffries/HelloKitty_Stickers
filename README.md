@@ -13,7 +13,8 @@ See it in action at my code pen: https://codepen.io/sydney-jeffries/pen/GzgPvg
  </p>
 
 This is a small project that gave me joy creating. I had two goals with this project other then polishing my own skills. 
-The main goal was to create interactive art, and the secondary goal was to make it responsive for landscape on a mobile devise. 
+The main goal was to create interactive art, and the secondary goal was to make it using best practices. It had to be created out of SVGs, be responsive to mobile and landscape mode, and coded neatly.
+<p>
 Before I started using Hello Kitty in my project I stretched my paralegal abilities and analyzed my legal rights of using her in my pleasure project. You can follow along with the rest of this read me if you're interested in my legal deduction of using copyrighted content, otherwise there is nothing left for you here. <p>
 
 <h3> My deduction on the use of Copy-Righted Material </h3>
