@@ -4,12 +4,13 @@
 See it in action at my code pen: https://codepen.io/sydney-jeffries/pen/GzgPvg
 
 <h2> Lanscape version: </h2>
-<a href="http://tinypic.com?ref=117v53d" target="_blank"><img src="http://i63.tinypic.com/117v53d.jpg" border="0" alt="lasncape view of my project"></a>
+
+<img src="https://lh3.googleusercontent.com/eCpMeFZfOU6vomkoJE3teJhZ-TX0woKbhAHs-ln61K_SEkQAWJkmWAcAxAXqlGsGor8TzdfQ7zhM3dzvZ1JbVgW3F_UmIvRCuMHUYkK7098HOOj8rkPHBY2Q2Fy5OV6QUgy-AkSPbfHKyF15X9WZwjd5BKvYNSlGlfCfoYEN96p-MRCjJTDT_FcS9AQrGRRWQ0btL5D9YvDOYezbQ-ayYejphRI-uroDvokG7994j67E0nnP3wf_pWSDVVsKyCViIEu15SquPsoAv6KpFz0fFyoE41-B7yepXZXyF4oDD2KMD3O0baJXmIy2yxLX5b02zHyyhH144li1ynMCrK8u9neAWHSiBcE2UsFWY5sq9OV3RbJWYx_q_YGkoXS7juNdJ2iBme5jjZh1w20SQA3ToEWnGOqrAgQgjJE2ChRLr70EGLGI7TjsE5-V146J2ovGMYqT-GZUAC4GJR4KB0GV6vZmGe5Ev901xqQ4J90S-2VjvgmBFMadtQLW-Z26qipQIiNW9HMgeJKzeJEhRYB3ZHWx_OPvo1iQpisCcpj1QZxXoId4HqQp5v2KJE2d5eVZPwHT9GRuCbJvmLontnWcIcUS4tz9JCLYlvo_NZfEiw4uU-gsXAM5LtfUzKQAL-1G624vg8LIXJBomHOZ9qp81BzwDndev7pAQOiu54wj69iic4Wu37wQj3NA7TJl=w666-h369-no?authuser=0" border="0" alt="protrit view of my project" >
 
 <p align="center">
 <h2> Portrit version (with selections made): </h2>
+<img src="https://lh3.googleusercontent.com/AbeqvNCjtHKK-87MOwwUwkrlPzOvIoqlmEAeJJpLbzhLoXp4uGHkq4_0g8VzjFI9_9L-TuRZV_aMZsJbW7sqnBb7ETu_-6J39ynlnqTSp09CgP5UVZdrznv5jUFJbP7zqEe3Xx52Y-EJ8WOTBbF33-cLOvKGIBYl3_RXdHUmCqwvJykEj1UhG-FVmZ-pfuH605k0iBQgDC3Bh_LO__o9ieknNvvoh0X4wsOW8VLf5KZycZleuoOPF3yKuDDstK6IiLWVNVbLt05P5KmAvqppYeod1Bzj2cnuiv_YkEC1KNfbmNGaGFxlePRhWwUxM03Yap8zu4SmaG_bCrmY6aXs7TBXATzYFnVDTF9kRkk0k5K80ElNqc3wa3bI0XqavEtbUe6Xe2s6v_rbYHba3-G7chQUSHHybbClsA4150gAP2olqen6p7JLYhlRQjAQ0TdXv4awKY1RZEAANzdAGMVflmm7wqG3njGzI9vxADmEgLYNEokzPIfD4E7c7YYtm5TTRt37seuGE4nonRO0TvTv09WIVpOYtnqp59PGmUJ7Wol4l2FC9Tt6RC8EHXYL6whlAp4ZvyAswmOLHJIXaz2_27uC7SOCQJUKRlhIOSieLHvaWc8B5b7QYfo_oahLi3XzsRJhH2LplDp4b3rx4xJGUaa2k4cme_HKiYQrI-dg2Kt2IlLRWYycfYegTO6K=w366-h671-no?authuser=0" border="0" alt="lasncape view of my project">
 
-<img src="http://i66.tinypic.com/10oirmq.png" border="0" alt="protrit view of my project" ></a>
  </p>
 
 This is a small project that gave me joy creating. I had two goals with this project other then polishing my own skills. 
@@ -49,7 +50,6 @@ Just don't use the whole song.
 If you’re apart of an establishment that has enough assets to loose, and you need help determining more about fair use exceptions of copyrighted material, then definitely contact an attorney.  As a trained paralegal I legally can't give advice nor did I give you enough comprehensive information to determine your situation. These are "guidelines".
 
 
-<img src="http://i67.tinypic.com/23mmoef.jpg" border="0" alt="Design from XD"></a>
 
 
 
